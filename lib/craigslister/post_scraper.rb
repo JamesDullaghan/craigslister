@@ -27,7 +27,7 @@ class PostScraper
       url: link,
       bedrooms: bedrooms,
       bathrooms: bathrooms,
-      other: other,
+      other: other
     }
   end
 
